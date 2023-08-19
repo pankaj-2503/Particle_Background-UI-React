@@ -1,7 +1,9 @@
 # Particle Motion UI for Background using React and tsParticles
 
 Author:Pankaj
+:-
 Project: Particle Motion UI
+:-
 Link:
 
 ## Introduction
