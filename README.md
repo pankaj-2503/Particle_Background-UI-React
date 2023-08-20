@@ -3,7 +3,7 @@
 Author:Pankaj Kumar Singh
 :-
 Project: Particle Motion UI
-Link:weljwlej
+Live Link:https://react-tsparticles.netlify.app/
 
 
 ## Introduction
