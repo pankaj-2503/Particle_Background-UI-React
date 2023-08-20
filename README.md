@@ -22,7 +22,7 @@ With this project, you can add a touch of dynamism and interactivity to your web
 
 
 ## Once the scripts are loaded you can set up tsParticles like this:
-
+```
 (async () => {
   await loadFull(tsParticles); // not needed if using the bundle script, required for any other installation
 
@@ -33,9 +33,11 @@ With this project, you can add a touch of dynamism and interactivity to your web
     },
   });
 })();
+```
 
 ## Class Component
 
+```
 import React from "react";
 import Particles from "react-particles";
 import type { Engine } from "tsparticles-engine";
@@ -56,7 +58,7 @@ export class ParticlesContainer extends PureComponent<unknown> {
     return <Particles options={options} init={this.customInit} />;
   }
 }
-
+```
 
 ## Customization
 
